@@ -14,9 +14,6 @@
    <i>⚡️保持好奇⚡️</i>
   </h3>
 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=xun-04&&show_icons=true&theme=radical"/>
