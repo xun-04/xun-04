@@ -5,7 +5,6 @@
   <!-- 社交图标 -->
 <p align='center'>
     <a href="https://space.bilibili.com/1795166686/"><img width="40" height="40" src="https://img.icons8.com/ios/50/bilibili.png" alt="bilibili"/></a>
-    <a href="https://bity.la/w20r"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/weibo.png" alt="weibo"/></a>
     <a href="https://x.com/zi_liang9728"><img width="40" height="40" src="https://img.icons8.com/ios/50/twitterx.png" alt="twitterx"/></a>
   </p>
 
